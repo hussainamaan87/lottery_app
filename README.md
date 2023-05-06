@@ -1,16 +1,19 @@
-# lottery_app
+# Lottery App on Flutter with Material App, Math.dart, Scaffold, Column, and Google Fonts
 
-A new Flutter project.
+## A new Flutter project.
+ 
+This is a lottery app created using Flutter that provides users with the ability to generate random lottery numbers. The app has been built using popular Flutter widgets such as Material App, Math.dart, Scaffold, Column, and Google Fonts.
 
-## Getting Started
+## Technologies
 
-This project is a starting point for a Flutter application.
+Flutter: Flutter is a mobile app development framework that uses the Dart programming language. It was used to create the app's UI and functionality.
 
-A few resources to get you started if this is your first Flutter project:
+Material App: Material App is a widget that implements the Material Design language, which provides a set of guidelines for designing Android apps. It was used to create the app's overall look and feel.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Math.dart: Math.dart is a Dart library that provides mathematical operations such as random number generation. It was used to generate the random lottery numbers.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Scaffold: Scaffold is a widget that provides a basic structure for a Material Design app, including a top app bar, bottom navigation bar, and body. It was used to create the app's basic structure.
+
+Column: Column is a widget that arranges its children in a vertical column. It was used to arrange the app's UI elements vertically.
+
+Google Fonts: Google Fonts is a library of open-source fonts that can be used in web and mobile apps. It was used to customize the app's UI with unique fonts.
